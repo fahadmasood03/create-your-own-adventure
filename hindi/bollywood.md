@@ -5,6 +5,8 @@
 आपका पसंदीदा अभिनेता कौन है?      
 मुझे बोर मत करो
 
+Ayushmann, [go here](ayushmann.md)
+
 SRK ,[go here](actor1/srk.md)
 
 Salman,[go here](actor2/salman.md)
